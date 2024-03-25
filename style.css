@@ -1,0 +1,21 @@
+.background{
+    background-color: rgb(132, 151, 151);
+}
+
+.primeiro{
+    background-color: rgb(7, 147, 241);
+}
+
+.segundo{
+    background-color: rgb(176, 252, 0);
+}
+
+.terceiro{
+    background-color: rgb(252, 0, 176);
+}
+
+.altura{
+    height: 100px;
+    border: black solid 2px;
+}
+
